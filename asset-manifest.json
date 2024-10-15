@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/testreact/static/js/main.c5aecb8f.js",
+    "index.html": "/testreact/index.html",
+    "main.c5aecb8f.js.map": "/testreact/static/js/main.c5aecb8f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c5aecb8f.js"
+  ]
+}
